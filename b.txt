@@ -4,3 +4,5 @@ mix
 remote
 mix2
 remote2
+mix3
+remote3
