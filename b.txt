@@ -1,2 +1,4 @@
 bbbbbbbb
 bcccccc
+mix
+remote
