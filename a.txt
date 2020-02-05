@@ -8,3 +8,4 @@ aaaaaa
 mix
 aaaaaa
 local
+test ssh
